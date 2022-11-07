@@ -18,3 +18,15 @@ body {
   padding: 25px;
   text-align: left;
 }
+
+.main_field {
+  padding: 20px;
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lemonchiffon;
+  padding: 25px;
+  text-align: left;
+}
