@@ -31,3 +31,8 @@ body {
   padding: 25px;
   text-align: left;
 }
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
