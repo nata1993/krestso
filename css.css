@@ -9,18 +9,19 @@ body {
   margin-bottom: 30px;
 }
 
+.main_field {
+  padding: 20px;
+}
+
 .intro {
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px;
   border: solid 2px black;
   border-radius: 15px;
   background-color: lightgrey;
   padding: 25px;
   text-align: left;
-}
-
-.main_field {
-  padding: 20px;
 }
 
 .main {
