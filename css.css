@@ -3,6 +3,11 @@ body {
   background-color: burlywood;
 }
 
+.lang {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
 .intro {
   margin-left: auto;
   margin-right: auto;
