@@ -1,3 +1,10 @@
 body {
   text-align: center;
+  background-color: burlywood;
+}
+
+.lang {
+  border: solid 3px black;
+  border-radius: 10px;
+  background-color: lightgrey;
 }
