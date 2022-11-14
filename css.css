@@ -33,6 +33,10 @@ body {
   text-align: left;
 }
 
+.right-intendation-cancel {
+  text-indent: 0px 
+}
+
 p {
   margin-top: 5px;
   margin-bottom: 5px;
