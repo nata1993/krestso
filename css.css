@@ -37,6 +37,7 @@ body {
   text-indent: 0px 
 }
 
+/* It feels like making text RTL is going to give you as many issues as it solves...  */
 .author-right {
   text-align: right;
   text-indent: 70px;
