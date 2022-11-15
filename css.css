@@ -37,6 +37,10 @@ body {
   text-indent: 0px 
 }
 
+.right-text-position {
+  text-align: right;
+}
+
 p {
   margin-top: 5px;
   margin-bottom: 5px;
