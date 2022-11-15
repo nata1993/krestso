@@ -37,9 +37,10 @@ body {
   text-indent: 0px 
 }
 
-.author-left {
+.author-right {
   text-align: right;
   text-indent: 70px;
+  direction: rtl;
 }
 
 p {
