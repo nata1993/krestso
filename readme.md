@@ -5,7 +5,7 @@ The source news was written initialy in Krestsõ newspaper in 2005, a city in Ru
 this webpage and translated to estonian language.
 
 ### Authors and translators
-Author: B. Jefimov
+Author: B. Jefimov  
 Estonian translation: Marju Lutt and Bogdan Parubok
 
 ### Deployment
